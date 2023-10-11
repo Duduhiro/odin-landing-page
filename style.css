@@ -164,9 +164,34 @@ article {
     font-weight: 800;
 }
 
+.call {
+    width: 100%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-card {
+    background-color: #3882F6;
+    color: white;
+    width: 75%;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 6px;
+    align-items: center;
+}
 
 #second-signup {
-    
+    background-color: #3882F6;
+    color: white;
+    border: 1px solid white;
+    width: 120px;
+    height: 36px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 6px;
 }
 
 footer {
